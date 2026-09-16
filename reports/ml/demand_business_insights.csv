@@ -1,0 +1,8 @@
+category,metric,value,insight
+Model Performance,MAPE,207.33,Current forecast accuracy is weak. Use forecasts as directional guidance rather than exact booking estimates.
+Model Performance,R2,-2.1391,Low or negative R² indicates that the current model does not explain the test-period demand variation well.
+Forecast Bias,Test Forecast Direction,"Under=1, Over=3",The model tends to overestimate demand. Avoid allocating excessive capacity based only on this forecast.
+Capacity Planning,Peak Demand,899.67,"Highest forecast demand is 900 bookings in 2027-02. Prioritize vehicle, seat and operator capacity."
+Capacity Planning,Lowest Demand,762.4,Lowest forecast demand is 762 bookings in 2027-05. Consider promotions or optimized capacity.
+Planning,Average Monthly Demand,806.67,Use average forecast demand as a baseline for operational planning.
+Data Quality,Forecast Reliability,Review Required,The source data contains a partially observed final month. Forecast evaluation can therefore be distorted. Complete months should be preferred for model training and evaluation.

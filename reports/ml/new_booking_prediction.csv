@@ -1,0 +1,2 @@
+route_id,vehicle_type,seat_count,ticket_price,total_amount,payment_method,distance_km,lead_time_days,cancellation_probability,predicted_cancellation,risk_level
+R010,BUS,2,850.0,1700.0,CARD,320.0,35,0.5051790714180645,1,MEDIUM

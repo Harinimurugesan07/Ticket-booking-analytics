@@ -1,0 +1,1 @@
+trip_id,route_id,operator_id,vehicle_type,departure_datetime,arrival_datetime,total_seats,bookings,seats_sold,revenue,unique_customers,route_name,source,destination,distance_km,route,available_seats,occupancy_percentage,revenue_per_seat,occupancy_category

@@ -1,0 +1,21 @@
+recommendation_type,entity_type,priority,recommendation_count
+Customer Marketing,Customer,LOW,1856
+Customer Marketing,Customer,HIGH,1633
+Customer Marketing,Customer,MEDIUM,1314
+General Engagement,Customer,LOW,1176
+Loyalty Campaign,Customer,HIGH,1035
+Win-back Campaign,Customer,HIGH,825
+Loyalty Rewards,Customer,HIGH,808
+Reactivation Campaign,Customer,MEDIUM,680
+Second Booking Campaign,Customer,MEDIUM,279
+Route Monitoring,Route,LOW,14
+Route Demand Stimulation,Route,MEDIUM,8
+Route Capacity Expansion,Route,HIGH,8
+Normal Capacity Planning,Month,LOW,5
+Demand Forecast,Month,MEDIUM,2
+Demand Forecast,Month,HIGH,2
+Demand Forecast,Month,LOW,2
+Cancellation Prevention,Booking,MEDIUM,1
+Cancellation Prevention,Booking,HIGH,1
+,,MEDIUM,1
+Peak Capacity Planning,Month,HIGH,1

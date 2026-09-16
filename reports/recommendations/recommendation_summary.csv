@@ -1,0 +1,9 @@
+recommendation_type,priority,recommendation_count
+Cancellation Prevention,HIGH,3
+Cancellation Prevention,MEDIUM,3997
+Customer Marketing,HIGH,1633
+Customer Marketing,LOW,1856
+Customer Marketing,MEDIUM,1314
+Demand Forecast,HIGH,2
+Demand Forecast,LOW,2
+Demand Forecast,MEDIUM,2

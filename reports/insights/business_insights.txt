@@ -1,0 +1,83 @@
+
+============================================================
+TICKET BOOKING ANALYTICS
+BUSINESS INSIGHTS REPORT
+============================================================
+
+1. OVERALL PERFORMANCE
+------------------------------------------------------------
+
+Total Bookings:
+20,000
+
+Total Revenue:
+₹43,212,275.81
+
+Average Booking Value:
+₹2,160.61
+
+Cancellation Rate:
+13.26%
+
+
+2. VEHICLE PERFORMANCE
+------------------------------------------------------------
+
+Most Popular Vehicle Type:
+CAB
+
+Bookings:
+5,334
+
+
+3. ROUTE PERFORMANCE
+------------------------------------------------------------
+
+Top Route by Booking Volume:
+Tirunelveli To Coimbatore
+
+Bookings:
+1,079
+
+
+4. PAYMENT BEHAVIOR
+------------------------------------------------------------
+
+Most Used Payment Method:
+CASH
+
+Bookings:
+4,096
+
+
+5. OPERATOR PERFORMANCE
+------------------------------------------------------------
+
+Top Operator by Revenue:
+Travel Operator 13
+
+Revenue:
+₹4,119,495.13
+
+
+6. BUSINESS INTERPRETATION
+------------------------------------------------------------
+
+• The most popular vehicle type indicates where
+  customer demand is strongest.
+
+• The highest-booked route represents the route
+  with the strongest customer demand.
+
+• The most frequently used payment method shows
+  the preferred payment channel of customers.
+
+• The top operator contributes the highest revenue
+  among available operators.
+
+• Cancellation rate should be monitored because
+  high cancellations can reduce realized revenue.
+
+============================================================
+END OF REPORT
+============================================================
