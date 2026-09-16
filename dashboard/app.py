@@ -380,7 +380,7 @@ def show_plot(fig, height=340):
     fig = plot_config(fig, height)
     st.plotly_chart(
         fig,
-        use_container_width=True,
+        width="stretch",
         config={
             "displayModeBar": False,
             "responsive": True,
@@ -1443,7 +1443,7 @@ elif page == "Customer Analytics":
 
             st.dataframe(
                 top_customers,
-                use_container_width=True,
+                width="stretch",
                 hide_index=True,
             )
 
@@ -1515,7 +1515,7 @@ elif page == "RFM Segmentation":
 
         st.dataframe(
             rfm_summary,
-            use_container_width=True,
+           width="stretch" ,
             hide_index=True,
         )
 
@@ -1528,7 +1528,7 @@ elif page == "RFM Segmentation":
 
             st.dataframe(
                 rfm_segments.head(200),
-                use_container_width=True,
+                width="stretch",
                 hide_index=True,
             )
 
@@ -1644,7 +1644,7 @@ elif page == "CLV Analytics":
 
         st.dataframe(
             top_clv,
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
         )
 
@@ -1747,7 +1747,7 @@ elif page == "Route Analytics":
 
         st.dataframe(
             route_performance,
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
         )
 
@@ -1810,7 +1810,7 @@ elif page == "Vehicle & Occupancy":
 
         st.dataframe(
             vehicle_occupancy,
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
         )
 
@@ -1893,7 +1893,7 @@ elif page == "Cancellation Analytics":
 
             st.dataframe(
                 frequent.head(100),
-                use_container_width=True,
+                width="stretch",
                 hide_index=True,
             )
 
@@ -2050,7 +2050,7 @@ elif page == "ML Cancellation Risk":
 
         st.dataframe(
             risk_display.head(200),
-            use_container_width=True,
+           width="stretch",
             hide_index=True,
         )
 
@@ -2157,7 +2157,7 @@ elif page == "Demand Forecast":
 
             st.dataframe(
                 future,
-                use_container_width=True,
+                width="stretch",
                 hide_index=True,
             )
 
@@ -2170,7 +2170,7 @@ elif page == "Demand Forecast":
 
             st.dataframe(
                 demand_test_evaluation,
-                use_container_width=True,
+                width="stretch",
                 hide_index=True,
             )
 
@@ -2183,7 +2183,7 @@ elif page == "Demand Forecast":
 
             st.dataframe(
                 future_demand_analysis,
-                use_container_width=True,
+                width="stretch",
                 hide_index=True,
             )
 
@@ -2313,7 +2313,7 @@ elif page == "Business Recommendations":
 
         st.dataframe(
             recommendations.head(200),
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
         )
 
